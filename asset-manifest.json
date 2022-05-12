@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/shopperspark/static/js/main.ed0360be.chunk.js",
+    "main.js.map": "/shopperspark/static/js/main.ed0360be.chunk.js.map",
+    "runtime-main.js": "/shopperspark/static/js/runtime-main.c221f2d9.js",
+    "runtime-main.js.map": "/shopperspark/static/js/runtime-main.c221f2d9.js.map",
+    "static/js/2.6c66d6f0.chunk.js": "/shopperspark/static/js/2.6c66d6f0.chunk.js",
+    "static/js/2.6c66d6f0.chunk.js.map": "/shopperspark/static/js/2.6c66d6f0.chunk.js.map",
+    "index.html": "/shopperspark/index.html",
+    "static/js/2.6c66d6f0.chunk.js.LICENSE.txt": "/shopperspark/static/js/2.6c66d6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c221f2d9.js",
+    "static/js/2.6c66d6f0.chunk.js",
+    "static/js/main.ed0360be.chunk.js"
+  ]
+}
