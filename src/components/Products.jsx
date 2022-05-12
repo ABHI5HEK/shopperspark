@@ -32,7 +32,7 @@ const Products = ({cat,filters,sort}) => {
   },[products,cat,filters])
   return (
     <Container>
-      {filterProducts.map((item)=><Product item ={item} key={item.id}/>)}
+      {popularProducts.map((item)=><Product item ={item} key={item.id}/>)}
     </Container>
   )
 }
